@@ -1,0 +1,6 @@
+Identifiez vous:
+=======================
+
+Email:  [             ]
+Password: [              ]
+[ se connecter ]

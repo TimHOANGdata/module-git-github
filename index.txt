@@ -1,2 +1,2 @@
-Title : M2i formation
-Content : Une excellente formation pro
+Title : CRM
+Content : page d'acceuil de CRM
