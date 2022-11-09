@@ -1,0 +1,6 @@
+const Email = document.querySelector("#email");
+const Password = document.querySelector("#Password");
+
+if(Password.value.length<8){
+    throw new Error('Mot de pass trop court')
+}
